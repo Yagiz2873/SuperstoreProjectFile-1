@@ -1,1 +1,2 @@
 # FinalProject
+This is our first presentation file as Data Harmony. You can see our team, business objectives, data understanding about Superstore dataset and target analytical solutions. I'd like to thank Sine Gökhan for these excellent powerpoint and Power BI files for our project, İrfan Mızrakcı for implementing Appriori Algorithms to perform Market Basket Analysis, Arda Kantık and our teaching assistant Fatmanur Özmen for general help. In this dataset, there were not any null values. So, in data preparation process we've handled outliers and values in the columns only.  
